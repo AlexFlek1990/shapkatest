@@ -1,0 +1,9 @@
+ru\af\entity\Team.class
+ru\af\repo\WordRepository.class
+ru\af\entity\Word.class
+ru\af\repo\TeamRepository.class
+ru\af\ShapkaConfig.class
+ru\af\repo\UserRepository.class
+ru\af\ShapkaInitializer.class
+ru\af\entity\User.class
+ru\af\controller\WordController.class
